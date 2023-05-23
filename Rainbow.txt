@@ -1,4 +1,4 @@
-Colors of the rainbow and the unicorn:
+Colors of the rainbow and the unicorn and the ponies:
 
 violet
 purple
@@ -11,3 +11,8 @@ orange
 yellow
 
 sparkles
+
+white
+brown
+black
+patches
