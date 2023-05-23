@@ -1,4 +1,6 @@
 Colors of the rainbow:
+violet
+
 red
 orange
 yellow
